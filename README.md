@@ -9,11 +9,18 @@ Ce projet implémente une série de fonctions pour évaluer des formules logique
 
 3. `Vérification de la satisfiabilité` : La fonction verifie_satisfiabilite(KB, alpha) vérifie si un ensemble de formules (KB) satisfait une autre formule (alpha) dans la logique propositionnelle.
 
-## Installation de Python
+## 
+## Installation
 
-Pour exécuter ce programme, vous aurez besoin d'installer Python sur votre système. Voici comment installer Python sur différents systèmes d'exploitation :
+### Cloner le dépôt
+Vous pouvez clôner le dépôt via cette commande :
 
-### Windows
+```
+https://github.com/Babarrrrrr/logic-formula-evaluator.git
+```
+Pour exécuter ce programme, vous aurez aussi besoin d'installer Python sur votre système. Voici comment installer Python sur différents systèmes d'exploitation :
+
+### Installation de python via Windows
 
 1. Téléchargez le programme d'installation Python à partir du [site officiel de Python](https://www.python.org/downloads/).
 2. Exécutez le programme d'installation téléchargé.
