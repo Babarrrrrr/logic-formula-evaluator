@@ -101,12 +101,6 @@ KB |= alpha
 
 ```
 
-## Structure du Projet
-
-- `AnalyseurSyntaxique.py` : Code du projet `verificateur-syntaxique`. Utilisé pour la saisie des formules de KB et alpha
-- `Grammaire.py` : Contient le lexer et le parser PLY pour analyser les formules logiques
-- `Inference.py` : Le script principal qui gère l'interaction avec l'utilisateur et le système d'inférence de propositions.
-
 ## Bibliothèque
 Vous n'avez pas besoin de bibliothèque pour utiliser ce sript.
 
