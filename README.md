@@ -108,7 +108,7 @@ KB |= alpha
 - `Inference.py` : Le script principal qui gère l'interaction avec l'utilisateur et le système d'inférence de propositions.
 
 ## Bibliothèque
-Vous n'avez pas besoin de bibliothèques pour utiliser ce sript.
+Vous n'avez pas besoin de bibliothèque pour utiliser ce sript.
 
 
 
