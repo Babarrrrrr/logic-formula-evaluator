@@ -26,9 +26,9 @@ Pour exécuter ce programme, vous aurez besoin d'installer Python sur votre syst
 1. macOS est livré avec une version de Python préinstallée. Vous pouvez vérifier la version en ouvrant le Terminal et en tapant `python --version`.
 2. Pour installer une version plus récente, vous pouvez utiliser [Homebrew](https://brew.sh/). Ouvrez le Terminal et exécutez la commande suivante :
 
-    ```
+```
 brew install python
-    ```
+```
 
 3. Une fois l'installation terminée, la nouvelle version de Python sera disponible.
 
@@ -37,10 +37,10 @@ brew install python
 1. De nombreuses distributions Linux sont livrées avec Python préinstallé. Vous pouvez vérifier la version en ouvrant un terminal et en tapant `python --version`.
 2. Pour installer Python sur les distributions basées sur Debian (comme Ubuntu), vous pouvez utiliser apt. Ouvrez un terminal et exécutez la commande suivante :
 
-    ```
+```
 sudo apt update
 sudo apt install python3
-    ```
+```
 
 Remplacez `python3` par `python` si vous voulez installer la version 2.
 3. Pour d'autres distributions Linux, vous pouvez utiliser le gestionnaire de packages spécifique à la distribution pour installer Python.
